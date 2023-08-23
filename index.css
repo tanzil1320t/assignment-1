@@ -32,3 +32,73 @@ gap: 10px;
 border-radius: 8px;
 background: #E55473;
 }
+.d{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top: 50px;
+margin-bottom: 30px;
+}
+.dd{
+    width: 40%;
+    margin: auto;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.div-1{
+    width: 364px;
+height: 538px;
+
+background: rgba(71, 125, 17, 0.15);
+background-image: url('./Flower/pngwing\ 6.png');
+background-repeat: no-repeat;
+background-position: bottom;
+border-radius: 300px 300px 0px 0px;
+
+}
+.div-2{
+    width: 364px;
+height: 538px;
+
+background: rgba(71, 125, 17, 0.15);
+background-image: url('./Flower/pngwing\ 7.png');
+background-repeat: no-repeat;
+background-position: bottom;
+border-radius: 300px 300px 0px 0px;
+
+}
+.div-3{
+    width: 364px;
+height: 538px;
+
+background: rgba(71, 125, 17, 0.15);
+background-image: url('./Flower/pngwing\ 5.png');
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 300px 300px 0px 0px;
+
+}
+.mid-section{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.men-container{
+    width: 70%;
+   margin: auto;
+height: 200px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05); 
+display: flex;
+align-items: center;
+margin-top: 40px;
+margin-bottom: 40px;
+padding: 50px;
+gap: 90px;
+}
+.f{
+    text-align: center;
+}
