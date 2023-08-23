@@ -111,6 +111,7 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 text-align: center;
+margin-bottom: 50px;
 }
 .g{
     font-size: 40px;
@@ -124,4 +125,26 @@ font-size: 18px;
     border-radius:10px;
     background: #E55473;
 }
-s
+.nicher-part{
+    text-align: center;
+}
+.k{
+font-size: 40px;
+margin-bottom: 10px;
+}
+.kk{
+font-size: 18px;
+color: rgba(39, 39, 39, 0.60);
+margin-bottom: 20px;
+}
+.pin1{
+    width: 342px;s
+    height: 396px; 
+}
+.footer-main{
+    display: flex;
+    justify-content: center;
+   gap: 10px;
+    
+    
+}
