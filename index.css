@@ -1,0 +1,34 @@
+.cover{
+    background: rgba(229, 84, 115, 0.10);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-position: bottom;
+    padding: 50px, 100px,0px,100xpx;
+    
+}
+.pic{
+    width: 435px;
+    height: 680px;
+    padding-top: 50px;
+    
+}
+.a{
+    font-size: 80px;
+    font-weight: 800;
+}
+.b{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+.c{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+color: white;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
