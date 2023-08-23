@@ -145,6 +145,41 @@ margin-bottom: 20px;
     display: flex;
     justify-content: center;
    gap: 10px;
+   margin-bottom: 50px;
     
     
+}
+.footer-last-part{
+   width: 80%;
+   margin: auto;
+   background-image: url('./Flower/Rectangle\ 9.png');
+height: 360px;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+padding: 30px;
+
+
+}
+.l{
+    font-size: 40px;
+}
+.m{
+    color: rgba(39, 39, 39, 0.60);s
+font-size: 18px;
+}
+.o{
+    width: 450px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+font-size: 18px;
+padding-left: 15px;
+}
+.q{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+color: white;
 }
