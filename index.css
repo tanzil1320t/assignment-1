@@ -158,6 +158,7 @@ background-repeat: no-repeat;
 background-size: cover;
 text-align: center;
 padding: 30px;
+margin-bottom: 50px;
 
 
 }
@@ -182,4 +183,30 @@ height: 64px;
 border-radius: 8px;
 background: #E55473;
 color: white;
+}
+.finish{
+    width: 100%;
+height: 449px;
+background: #111010;
+text-align: center;
+color: white;
+padding-top: 80px;
+}
+.w{
+    color: #E55473;
+font-size: 48px;
+margin-bottom: 30px;
+
+}
+.x{
+    color: white;
+    font-size: 48px;
+}
+.y{ 
+font-size: 18px;
+}
+.z{
+    color: rgba(255, 255, 255, 0.40);
+
+font-size: 16px;
 }
